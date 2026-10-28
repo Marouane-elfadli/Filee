@@ -46,7 +46,8 @@
   <a href="README.pt-PT.md">Português (Portugal)</a> ·
   <a href="README.fr.md">Français</a> ·
   <a href="README.th.md">ไทย</a> ·
-  <b>Türkçe</b>
+  <b>Türkçe</b> ·
+  <a href="README.de.md">Deutsch</a>
 </p>
 
 <table>
